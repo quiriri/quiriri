@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello world 👋
 
-<!--
-**quiriri/quiriri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Débora, mas me chamam de quiriri, tenho 25 anos. Apesar de não ser profissional da área, me interesso muito por tecnologia como hobby. Não tenho muita experiência e estou aqui para aprender mais e continuar me divertindo 😊
 
-Here are some ideas to get you started:
+##Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho participado de projetos de estudo utilizando:
+
+ - HTML
+ - CSS
+ - JavaScript
+ - MySQL
+ - C#
